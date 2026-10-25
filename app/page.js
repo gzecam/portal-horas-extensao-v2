@@ -69,7 +69,7 @@ export default function Home() {
 
         {dados && (
           <div className="resultado">
-            <h3>{dados.nome}</h3>
+            <!-- <h3>{dados.nome}</h3> -->
 
             <p>
               <strong>Turma:</strong> {dados.turma}
